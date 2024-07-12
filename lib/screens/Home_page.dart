@@ -26,6 +26,7 @@ class HomePage extends StatelessWidget {
             color: const Color(0xff547F32),
           ),
           Category(text: 'Colors', color: const Color(0xff7E3FA3)),
+          Category(text: 'Phrases', color: const Color(0xff48A5CC)),
           Category(text: 'Phrases', color: const Color(0xff48A5CC))
         ],
       ),
